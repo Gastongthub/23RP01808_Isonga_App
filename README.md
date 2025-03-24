@@ -30,4 +30,4 @@ The Isonga App is a web application designed to help citizens in Rwanda report a
 ### Steps to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/23RP01808-project-isonga-app.git
+   git clone https://github.com/your-username/23RP01808-Isonga-App.git
